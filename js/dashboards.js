@@ -79,7 +79,7 @@ var dashboards = [
     name: "Recruitment Dashboard",
     description: "Recruitment pipeline health, time-to-hire, and candidate source performance.",
     category: "Recruitment",
-    url: "https://app.powerbi.com/reportEmbed?reportId=41075716-fefc-4f19-b74c-b134b9c20fdd&autoAuth=true&ctid=0fbf1c82-c79e-41db-9ad3-8d147097371c%22",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiNDFmNzI2MjQtZTA4MS00OWJjLWE5ZDQtZmYzZDhhNDdkYzk0IiwidCI6IjBmYmYxYzgyLWM3OWUtNDFkYi05YWQzLThkMTQ3MDk3MzcxYyIsImMiOjJ9",
     icon: "users",
   },
   {
