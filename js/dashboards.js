@@ -71,7 +71,7 @@ var dashboards = [
     name: "Executive Overview",
     description: "Company-wide KPIs, revenue trends, and strategic performance summary for leadership.",
     category: "Executive",
-    url: "<iframe title="Master Dashboard 1" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=41075716-fefc-4f19-b74c-b134b9c20fdd&autoAuth=true&ctid=0fbf1c82-c79e-41db-9ad3-8d147097371c" frameborder="0" allowFullScreen="true"></iframe>",
+    url: "<https://app.powerbi.com/reportEmbed?reportId=41075716-fefc-4f19-b74c-b134b9c20fdd&autoAuth=true&ctid=0fbf1c82-c79e-41db-9ad3-8d147097371c",
     icon: "trending",
   },
   {
